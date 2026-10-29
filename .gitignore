@@ -1,0 +1,6 @@
+node_modules
+dist
+.env
+.DS_Store
+# Photos from the reference portfolio — kept locally, never deployed
+reference-assets
